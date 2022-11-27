@@ -4,6 +4,8 @@ A lot of it changed for a past few years, so I need to try it under .Net 7
 From design point of view, for now, I will follow tutorial and create "code first" approach.
 Later I will create or modify this project to follow more real-life scenario of "database-first" design.
 
+Note: added method to add/retrieve pictures from the database. I will use it to write demo UI with MVC/Blazor/Angular later..
+
 Thank you
 Sergiy (Sam) Klok
 
