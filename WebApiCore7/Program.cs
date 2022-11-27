@@ -11,6 +11,7 @@ builder.Services.AddControllers();
 // I used Microsoft.EntityFrameworkCore.InMemory
 //builder.Services.AddDbContext<TodoContext>(opt => opt.UseInMemoryDatabase("TodoList"));
 
+// Connecting to existing database
 builder.Services.AddDbContext<TodoContext>(opt => opt.UseSqlServer("name=ConnectionStrings:LifelongLearning"));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
