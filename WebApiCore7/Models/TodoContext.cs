@@ -10,5 +10,6 @@ namespace WebApiCore7.Models
         }
 
         public DbSet<TodoItem> TodoItems { get; set; } = null!;
+        public DbSet<Picture> Picture { get; set; } = null!;
     }
 }
