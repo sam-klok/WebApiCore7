@@ -9,6 +9,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		ReadMe.txt = ReadMe.txt
 		screen 01.JPG = screen 01.JPG
+		screen 02 adding controller by scaffolding.JPG = screen 02 adding controller by scaffolding.JPG
+		screen 03 error when adding scaffolding.JPG = screen 03 error when adding scaffolding.JPG
+		screen 04 ToDo post swagger test.JPG = screen 04 ToDo post swagger test.JPG
+		screen 05 ToDo post swagger test post result.JPG = screen 05 ToDo post swagger test post result.JPG
+		screen 06 ToDo test Get.JPG = screen 06 ToDo test Get.JPG
+		screen 07 Microsoft.EntityFrameworkCore.InMemory NuGet.jpg = screen 07 Microsoft.EntityFrameworkCore.InMemory NuGet.jpg
+		screen 08 attempt to add migration.JPG = screen 08 attempt to add migration.JPG
+		screen 09 fixing migration issue and updating database.JPG = screen 09 fixing migration issue and updating database.JPG
+		screen 10 new table after migration.JPG = screen 10 new table after migration.JPG
+		screen 11 get picture from the database.JPG = screen 11 get picture from the database.JPG
 	EndProjectSection
 EndProject
 Global
