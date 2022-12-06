@@ -1,4 +1,4 @@
-﻿namespace WebApiCore7.Models
+﻿namespace WebApiCore7
 {
     public class Picture
     {
@@ -6,6 +6,6 @@
         public string Name { get; set; }
         public string Type { get; set; }
         public string? Hash { get; set; }
-        public Byte[]? PicData { get; set; }
+        public byte[]? PicData { get; set; }
     }
 }

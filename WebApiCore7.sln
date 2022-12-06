@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCore7", "WebApiCore7\WebApiCore7.csproj", "{3E23541B-933D-4EF8-A908-A0A7CD91213D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiCore7", "WebApiCore7\WebApiCore7.csproj", "{3E23541B-933D-4EF8-A908-A0A7CD91213D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{300C8E18-6BC0-4641-B268-D827C5C11A8B}"
 	ProjectSection(SolutionItems) = preProject
@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		screen 11 get picture from the database.JPG = screen 11 get picture from the database.JPG
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryCore7", "ClassLibraryCore7\ClassLibraryCore7.csproj", "{269EA115-7EF1-4486-AD31-CFA9C56FA6B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{3E23541B-933D-4EF8-A908-A0A7CD91213D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E23541B-933D-4EF8-A908-A0A7CD91213D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E23541B-933D-4EF8-A908-A0A7CD91213D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269EA115-7EF1-4486-AD31-CFA9C56FA6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269EA115-7EF1-4486-AD31-CFA9C56FA6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269EA115-7EF1-4486-AD31-CFA9C56FA6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269EA115-7EF1-4486-AD31-CFA9C56FA6B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
